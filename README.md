@@ -8,3 +8,4 @@
   <img src="https://github.com/Artem2003OnToday/Artem2003OnToday/raw/main/pictures/cmake.svg" width="50" height="50" hspace="5">
   <img src="https://github.com/Artem2003OnToday/Artem2003OnToday/raw/main/pictures/codeforces.svg" width="50" height="50" hspace="5">
 </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
