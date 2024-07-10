@@ -19,7 +19,7 @@ Love solving algorithmic problems, building software architectures.
 
 Joined Github 5 years ago
 
-Since then I pushed 800+ commits, submitted 475+ pull requests and contributed to 0+ public repositories
+Since then I pushed 2k+ commits, submitted 90+ pull requests and contributed to 1+ public repositories
 
 Like My Work?
 
