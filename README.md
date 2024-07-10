@@ -19,7 +19,7 @@ Love solving algorithmic problems, building software architectures.
 
 Joined Github 5 years ago
 
-Since then I pushed 2k+ commits, submitted 90+ pull requests and contributed to 1+ public repositories
+Since then I pushed 2k+ commits, submitted 90+ pull requests and contributed to 0+ public repositories
 
 Like My Work?
 
@@ -59,32 +59,15 @@ Like My Work?
 <details>
   <summary><b>⚡️ Github Stats</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heartsker&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heartsker&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artemb4&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artemb4&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>	
   <summary><b>🚀 Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=heartsker&hide_border=true" />
-</details>
-
-<details>
-  <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/heartsker/heartsker/main/resourses/capoo_strong.gif"/>
-  <br/>
-  <summary><b>🛠 Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> MacOS 13.0</li>
-	    <li><b>Laptop: </b> MacBookPro 16" 2021 M1Pro</li>
-	    <li><b>Terminal: </b>Oh My Zsh</li>
-	    <li><b>Code Editor:</b>
-        <ul>
-          <li>VSCode - The best editor out there</li>
-        </ul>
-	    <br/>
-	</ul>
-	Do not ever miss security updates! ❤️‍🩹
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=artemb4&hide_border=true" />
 </details>
 
 <div align="center">
