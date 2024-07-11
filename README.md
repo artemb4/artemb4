@@ -12,11 +12,10 @@ Reach me out at bo4arovartyom@yandex.ru
 I am a bachelor student in Computer Science in ITMO University at Software engineering [program](https://abit.itmo.ru/program/bachelor/software_engineering)
 
 ### My Absolute Favorites:
+
 Love solving algorithmic problems, building software architectures.
 
 Joined Github 5 years ago
-
-Since then I pushed 2k+ commits, submitted 90+ pull requests and contributed to 0+ public repositories
 
 Like My Work?
 
@@ -45,24 +44,6 @@ Like My Work?
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-
-### Projects and Dev Stuffs:
-
-<details>
-  <summary><b>⚡️ Github Stats</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artemb4&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artemb4&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>	
-  <summary><b>🚀 Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=artemb4&hide_border=true" />
-</details>
-
-<div align="center">
 
 ### If you appreciate my work, show some ❤️ by starring some of the repositories!
 
