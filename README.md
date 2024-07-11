@@ -7,12 +7,9 @@ Reach me out at bo4arovartyom@yandex.ru
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/almost_bot/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Chapaev_task_is_unsolved)
 
-### I am happy to see you here!
-![](https://visitor-badge.glitch.me/badge?page_id=heartsker.heartsker&left_color=red&right_color=black)
-
 ## Profile
 
-I am a bachelor in Computer Science in ITMO University at Applied Mathematics and Information Science [program](https://abit.itmo.ru/program/bachelor/software_engineering)
+I am a bachelor student in Computer Science in ITMO University at Software engineering [program](https://abit.itmo.ru/program/bachelor/software_engineering)
 
 ### My Absolute Favorites:
 Love solving algorithmic problems, building software architectures.
@@ -23,10 +20,6 @@ Since then I pushed 2k+ commits, submitted 90+ pull requests and contributed to 
 
 Like My Work?
 
-<a href="https://www.buymeacoffee.com/heartsker" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/heartsker/heartsker/main/resourses/capoo_coffee.gif" />
-
 ### Talking about Personal Stuffs:
 
 * Excellent troubleshooting skills
@@ -35,14 +28,13 @@ Like My Work?
 
 ### Current status
 
-- 🍎 &nbsp; Middle **Backedn developer** at Yandex.Lavka
-- 👨🏻‍💻 &nbsp; Several of my projects are available on [Github](https://github.com/heartsker?tab=repositories).
+- 🍎 &nbsp; Middle **Backend developer** at Yandex.Lavka
+- 👨🏻‍💻 &nbsp; Several of my projects are available on [Github](https://github.com/artemb4?tab=repositories).
 - 📫 &nbsp; How to reach me: bo4arovartyom@yandex.ru
 - 📝 &nbsp; Checkout my [resume](https://artemb4.github.io/resume/)
 
 ### Languages and Tools:
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" alt="xcode"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode"></code>
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
