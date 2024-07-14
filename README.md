@@ -1,5 +1,5 @@
 ## Hi and wellcome, I am Artem 👋
-Middle Backend developer
+Middle Backend C++ developer
 
 Reach me out at bo4arovartyom@yandex.ru
 ### Find me anywhere [@artemb4](https://t.me/Chapaev_task_is_unsolved):
