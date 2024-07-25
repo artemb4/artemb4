@@ -1,5 +1,5 @@
 ## Hi and wellcome, I am Artem 👋
-Middle Backend C++ developer
+Junior Backend C++ developer
 
 Reach me out at bo4arovartyom@yandex.ru
 ### Find me anywhere [@artemb4](https://t.me/Chapaev_task_is_unsolved):
@@ -27,7 +27,7 @@ Like My Work?
 
 ### Current status
 
-- 🍎 &nbsp; Middle **Backend developer** at Yandex.Lavka
+- 🍎 &nbsp; Junior **Backend developer** at Yandex.Lavka
 - 👨🏻‍💻 &nbsp; Several of my projects are available on [Github](https://github.com/artemb4?tab=repositories).
 - 📫 &nbsp; How to reach me: bo4arovartyom@yandex.ru
 - 📝 &nbsp; Checkout my [resume](https://artemb4.github.io/resume/)
